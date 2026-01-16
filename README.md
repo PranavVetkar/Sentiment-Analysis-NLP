@@ -28,5 +28,5 @@ This project classifies text into **POSITIVE, NEGATIVE, or NEUTRAL** sentiment a
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/PranavVetkar/Crypto-Sentiment-Analyzer.git
-cd Crypto-Sentiment-Analyzer
+git clone https://github.com/PranavVetkar/Sentiment-Analysis-NLP.git
+cd Sentiment-Analysis-NLP
